@@ -2,6 +2,7 @@ name: PIPNIC
 favicon: null
 layout_spectrum: 0.964057584758848
 typography_spectrum: 0.4085182959679514
+title: test
 cta:
   domain: null
   bucket: null
