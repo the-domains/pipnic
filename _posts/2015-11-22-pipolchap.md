@@ -7,9 +7,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-22T01:06:09.966Z'
-dateModified: '2015-11-22T01:06:06.337Z'
-title: WE COME IN PEACE...
+datePublished: '2015-11-22T01:13:37.369Z'
+dateModified: '2015-11-22T01:13:32.963Z'
+title: HEADGEAR
 author: []
 sourcePath: _posts/2015-11-22-pipolchap.md
 published: true
@@ -24,6 +24,9 @@ _type: MediaObject
 ---
 ![VR/AR startup](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8b18c3a-df41-4616-8d3a-a7a2c9d12c8f.png)
 
-# WE COME IN PEACE...
+# 
 
-Now available on the Occulus Concepts Store for Android devices.
+# HEADGEAR
+
+WE COME IN PEACE...  Now available on the Occulus Concepts Store for Android devices.
+null
