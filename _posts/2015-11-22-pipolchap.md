@@ -7,9 +7,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-22T00:42:09.859Z'
-dateModified: '2015-11-22T00:42:05.437Z'
-title: PIPOLCHAP
+datePublished: '2015-11-22T00:48:34.438Z'
+dateModified: '2015-11-22T00:48:31.784Z'
+title: HEADGEAR
 author: []
 sourcePath: _posts/2015-11-22-pipolchap.md
 published: true
