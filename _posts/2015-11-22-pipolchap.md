@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://headgear.io'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-22T01:28:58.865Z'
-dateModified: '2015-11-22T01:28:54.352Z'
+datePublished: '2015-11-22T01:29:23.043Z'
+dateModified: '2015-11-22T01:29:19.785Z'
 title: "WE COME IN PEACE... \_"
 author: []
 sourcePath: _posts/2015-11-22-pipolchap.md
