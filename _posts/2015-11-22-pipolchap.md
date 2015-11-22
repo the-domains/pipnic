@@ -1,25 +1,25 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-22T00:33:31.579Z'
-dateModified: '2015-11-22T00:33:14.643Z'
+datePublished: '2015-11-22T00:42:09.859Z'
+dateModified: '2015-11-22T00:42:05.437Z'
 title: PIPOLCHAP
 author: []
+sourcePath: _posts/2015-11-22-pipolchap.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-22-pipolchap.md
-published: true
-url: pipolchap/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 WE COME IN PEACE...
