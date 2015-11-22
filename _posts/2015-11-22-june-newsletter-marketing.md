@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-22T01:11:38.973Z'
-dateModified: '2015-11-22T01:11:26.329Z'
+datePublished: '2015-11-22T01:16:03.096Z'
+dateModified: '2015-11-22T01:15:57.872Z'
 title: JUNE NEWSLETTER MARKETING
 author: []
+sourcePath: _posts/2015-11-22-june-newsletter-marketing.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-22-june-newsletter-marketing.md
-published: true
 url: june-newsletter-marketing/index.html
 _type: Article
 
