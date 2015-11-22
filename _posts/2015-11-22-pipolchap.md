@@ -2,14 +2,14 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: hedgear.io
+isBasedOnUrl: 'http://headgear.io'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-22T00:56:19.670Z'
-dateModified: '2015-11-22T00:56:16.708Z'
-title: HEADGEAR
+datePublished: '2015-11-22T01:04:18.884Z'
+dateModified: '2015-11-22T01:04:16.210Z'
+title: WE COME IN PEACE...
 author: []
 sourcePath: _posts/2015-11-22-pipolchap.md
 published: true
@@ -22,5 +22,6 @@ publisher:
 _type: MediaObject
 
 ---
-WE COME IN PEACE...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8b18c3a-df41-4616-8d3a-a7a2c9d12c8f.png)
+![VR/AR startup](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8b18c3a-df41-4616-8d3a-a7a2c9d12c8f.png)
+
+# WE COME IN PEACE...
