@@ -7,9 +7,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-22T01:22:48.126Z'
-dateModified: '2015-11-22T01:22:43.673Z'
-title: HEADGEAR
+datePublished: '2015-11-22T01:26:14.846Z'
+dateModified: '2015-11-22T01:26:06.931Z'
+title: "WE COME IN PEACE... \_"
 author: []
 sourcePath: _posts/2015-11-22-pipolchap.md
 published: true
@@ -26,6 +26,5 @@ _type: MediaObject
 
 # 
 
-# HEADGEAR
-
-WE COME IN PEACE...  Now available on Occulus Concepts Store for Android devices for FREE!
+# WE COME IN PEACE...  null
+null
