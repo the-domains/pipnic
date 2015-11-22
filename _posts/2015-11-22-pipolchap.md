@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: hedgear.io
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-22T00:48:34.438Z'
-dateModified: '2015-11-22T00:48:31.784Z'
+datePublished: '2015-11-22T00:53:53.477Z'
+dateModified: '2015-11-22T00:53:45.541Z'
 title: HEADGEAR
 author: []
 sourcePath: _posts/2015-11-22-pipolchap.md
@@ -19,7 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+_type: MediaObject
 
 ---
 WE COME IN PEACE...
