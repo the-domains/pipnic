@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-22T01:04:18.884Z'
-dateModified: '2015-11-22T01:04:16.210Z'
+datePublished: '2015-11-22T01:06:09.966Z'
+dateModified: '2015-11-22T01:06:06.337Z'
 title: WE COME IN PEACE...
 author: []
 sourcePath: _posts/2015-11-22-pipolchap.md
@@ -25,3 +25,5 @@ _type: MediaObject
 ![VR/AR startup](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8b18c3a-df41-4616-8d3a-a7a2c9d12c8f.png)
 
 # WE COME IN PEACE...
+
+Now available on the Occulus Concepts Store for Android devices.
