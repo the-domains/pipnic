@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-22T01:21:06.756Z'
-dateModified: '2015-11-22T01:21:04.166Z'
+datePublished: '2015-11-22T01:30:04.658Z'
+dateModified: '2015-11-22T01:30:01.312Z'
 title: JUNE NEWSLETTER MARKETING
 author: []
 sourcePath: _posts/2015-11-22-june-newsletter-marketing.md
