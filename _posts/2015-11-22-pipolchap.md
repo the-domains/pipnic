@@ -7,9 +7,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-22T01:34:02.854Z'
-dateModified: '2015-11-22T01:33:55.778Z'
-title: "WE COME IN PEACE... \_is now available on the Occulus Concepts Store for GearVR. Download it for FREE!"
+datePublished: '2016-01-11T18:26:21.794Z'
+dateModified: '2016-01-11T18:26:17.404Z'
+title: "WE COME IN PEACE... \_is now available on the Oculus Concepts Store for GearVR. Download it for FREE!"
 author: []
 sourcePath: _posts/2015-11-22-pipolchap.md
 published: true
@@ -22,8 +22,8 @@ publisher:
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8b18c3a-df41-4616-8d3a-a7a2c9d12c8f.png)
+![VR/AR startup](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6bfb7641f4f42f666816b99af15d1ef03b16b741.png)
 
 # 
 
-# _WE COME IN PEACE...  is n__ow available on the Occulus Concepts Store for GearVR. Download it for FREE!_
+# _WE COME IN PEACE...  is n__ow available on the Oculus Concepts Store for GearVR. Download it for FREE!_
