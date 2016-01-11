@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://headgear.io'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T18:26:21.794Z'
-dateModified: '2016-01-11T18:26:17.404Z'
+datePublished: '2016-01-11T18:29:14.488Z'
+dateModified: '2016-01-11T18:28:45.532Z'
 title: "WE COME IN PEACE... \_is now available on the Oculus Concepts Store for GearVR. Download it for FREE!"
 author: []
 sourcePath: _posts/2015-11-22-pipolchap.md
