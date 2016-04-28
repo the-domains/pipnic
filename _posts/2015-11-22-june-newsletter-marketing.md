@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-28T14:53:50.366Z'
-dateModified: '2016-04-28T14:53:20.031Z'
+datePublished: '2016-04-28T14:54:19.361Z'
+dateModified: '2016-04-28T14:54:08.078Z'
 title: JUNE – ONLINE MARKETING TOOLS
 author:
   - name: ''
@@ -19,7 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: june-newsletter-marketing/index.html
 _type: Article
 
