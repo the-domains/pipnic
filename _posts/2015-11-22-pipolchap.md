@@ -4,12 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://headgear.io'
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T18:29:14.488Z'
-dateModified: '2016-01-11T18:28:45.532Z'
-title: "WE COME IN PEACE... \_is now available on the Oculus Concepts Store for GearVR. Download it for FREE!"
+datePublished: '2016-04-28T14:41:57.673Z'
+dateModified: '2016-04-28T14:41:13.873Z'
+title: ''
 author: []
 sourcePath: _posts/2015-11-22-pipolchap.md
 published: true
@@ -19,11 +18,12 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 _type: MediaObject
 
 ---
-![VR/AR startup](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6bfb7641f4f42f666816b99af15d1ef03b16b741.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcdf33fb-236c-4eb7-99e6-9e05205f4431.png)
 
 # 
 
-# _WE COME IN PEACE...  is n__ow available on the Oculus Concepts Store for GearVR. Download it for FREE!_
+# _WE COME IN PEACE... is n__ow available for the Samsung Oculus GearVR_
